@@ -1,5 +1,5 @@
 ### Android Tutorial
 
-# Dialog
+# Android Toast
 
-![Alt text](http://full/path/to/img.jpg "Dialog Screen")
+![](https://github.com/alekhya100/androidTutorial/blob/master/screenshots/AndroidToast.png "Toast Screen")
